@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hi, I'm Nelson! <br/><a href="https://www.linkedin.com/in/nelyee/">Cybersecurity Analyst</a>
+<h1>I'm Nelson! <br/><a href="https://www.linkedin.com/in/nelyee/">Cybersecurity Analyst</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Splunk Cloud</b>

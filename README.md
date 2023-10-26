@@ -27,7 +27,7 @@
 - [Incident handler's journal](https://docs.google.com/document/d/1wnoXvJcuG9LPYg6dE98Hkoj551Bp00iGfSjJzNmHq10/edit?usp=sharing&resourcekey=0-7htsWlT5l_Ulyyl-MW_cpQ)
 - [Compliance checklist](https://docs.google.com/document/d/1CJhfkG8KuEdLis_l58rSHCNZcRm6yBx0RFbAzJwPDIQ/edit?usp=sharing)
 - [Botium Toys: Risk assessment](https://docs.google.com/document/d/1Bghn35sso9eMAR7MA2-ZprzgQkdgA0pFD9KKTprfkIQ/edit?usp=sharing)
-- -[Alert ticket example](https://docs.google.com/document/d/1ijOyvI_QvNoFosF37NcbA4N1ia19xpRGF0Nn_kDB5y4/edit?usp=sharing)
+- [Alert ticket example](https://docs.google.com/document/d/1ijOyvI_QvNoFosF37NcbA4N1ia19xpRGF0Nn_kDB5y4/edit?usp=sharing)
 - Security Incident Report Examples
     -  [Security Incident Report Example #1](https://docs.google.com/document/d/1QMFXvXJm7lNwTsZsU3cTRU3xE8Jqf1KkBBhK6VNT3Rg/edit?usp=sharing&resourcekey=0-xrQ1ya2QydFYCMKVUj_vuA)
     -  [Security Incident Report Example #2](https://docs.google.com/document/d/1eynfKDzC8SXlRNYv4IoVLaEckwV7R8NrTM5CfykuA88/edit?usp=sharing&resourcekey=0-5jHYbo2RXvLsTiyIhZ9mHQ)

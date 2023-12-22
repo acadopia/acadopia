@@ -15,7 +15,7 @@
       - [Retrieve login attempts outside of Mexico](https://docs.google.com/document/d/1zsNNJEV6vUO1EugtMIHsknZZE63llqPdtLrK6tedmgI/edit?usp=sharing)
       - [Retrieve employees in Finance or Sales](https://docs.google.com/document/d/1D2zw15MILEvRYNAigqdlnrj2dXBPm8KFvk0H7-friYg/edit?usp=sharing)
       - [Retrieve all employees not in IT - SQL](https://docs.google.com/document/d/1hK4RUEOa6fdgSNf3KYy47VsukzvWnd34ReGswa-9O94/edit?usp=sharing)
-      - 
+      
 - <b>Linux</b>
   - [Modify permissions in Linux](https://docs.google.com/document/d/1kVS_5TpkiafxLAkfq-GObDfZdbJYqe7LQFq5tZuFMuU/edit?usp=sharing)
 

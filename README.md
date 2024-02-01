@@ -23,6 +23,7 @@
 <h2>📺 Cybersecurity Documentation, Attestation, and Compliance</h2>
 
 - [Stakeholder Memorandum](https://docs.google.com/document/d/1_Vtx1TOgfYqU-9eL3r-oEMEGI6JusvRtqe8FUMJq2Gk/edit?usp=sharing&resourcekey=0-VRDqtIa35Xpgs9gLmnJC2w)
+- [Controls Assessment Audit](https://docs.google.com/document/d/1yUghME6BA8b3WN8bX5Fgabv-MmY25hAJAg3BaS9RlgY/edit?resourcekey=0-rO_4id0aO_2fbp0Tae1U2Q#heading=h.xy3nd6nrz8di)
 - [Incident report analysis](https://docs.google.com/document/d/1jFDhYpf8Uv4wQtP6rpGotUp6NVMuPpGwCjjfCyknTOI/edit?usp=sharing)
 - [Incident handler's journal](https://docs.google.com/document/d/1wnoXvJcuG9LPYg6dE98Hkoj551Bp00iGfSjJzNmHq10/edit?usp=sharing&resourcekey=0-7htsWlT5l_Ulyyl-MW_cpQ)
 - [Compliance checklist](https://docs.google.com/document/d/1CJhfkG8KuEdLis_l58rSHCNZcRm6yBx0RFbAzJwPDIQ/edit?usp=sharing)

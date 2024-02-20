@@ -22,7 +22,7 @@
 
 <h2>📺 Cybersecurity Documentation, Attestation, and Compliance</h2>
 
-- [Audit of subset of NIST SP 800-53.  Additionally, semi-quantitatively analyzed cybersecurity risk using NIST SP 800-30 methodology to identify highest risk weaknesses for a system](https://docs.google.com/spreadsheets/d/1h0ZStwiulrLdzXqUP-eP6D1I_I8w4DAs/edit?usp=sharing&ouid=102752259941615168652&rtpof=true&sd=true)
+- [Audit of subset of NIST SP 800-53 + semi-quantitative analysis of cybersecurity risk using NIST SP 800-30 methodology to identify highest risk weaknesses for a system](https://docs.google.com/spreadsheets/d/1h0ZStwiulrLdzXqUP-eP6D1I_I8w4DAs/edit?usp=sharing&ouid=102752259941615168652&rtpof=true&sd=true)
 - [Information Security Policy - Development and alignment](https://docs.google.com/document/d/1NaB0igyTwkY6zcb5EJgls2wEasjr-Xz-tHhGSmftTis/edit?usp=sharing)
 - [Stakeholder Memorandum](https://docs.google.com/document/d/1_Vtx1TOgfYqU-9eL3r-oEMEGI6JusvRtqe8FUMJq2Gk/edit?usp=sharing&resourcekey=0-VRDqtIa35Xpgs9gLmnJC2w)
 - [Controls Assessment Audit](https://docs.google.com/document/d/1yUghME6BA8b3WN8bX5Fgabv-MmY25hAJAg3BaS9RlgY/edit?resourcekey=0-rO_4id0aO_2fbp0Tae1U2Q#heading=h.xy3nd6nrz8di)

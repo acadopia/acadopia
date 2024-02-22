@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h1>I'm Nelson! <br/><a href="https://www.linkedin.com/in/nelyee/">Cybersecurity Analyst</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>I'm Nelson! <br/><a href="https://www.linkedin.com/in/nelyee/">Cyber Resilience Professional</a>
+<h2>👨‍💻 Technical / Operational Projects</h2>
 
 - <b>Splunk Cloud</b>
   - [Exploring failed SSH logins for the root account on the mail server](https://docs.google.com/document/d/1lkAmrIVgEPSY3kv4p76eX-j4XbHgavO-p1kn3gBQt-4/edit?usp=sharing)
@@ -20,7 +20,7 @@
   - [Modify permissions in Linux](https://docs.google.com/document/d/1kVS_5TpkiafxLAkfq-GObDfZdbJYqe7LQFq5tZuFMuU/edit?usp=sharing)
 
 
-<h2>📺 Cybersecurity Documentation, Attestation, and Compliance</h2>
+<h2>📺 GRC / Assurance Projects</h2>
 
 - [Audit of subset of NIST SP 800-53 + semi-quantitative analysis of cybersecurity risk using NIST SP 800-30 methodology to identify highest risk weaknesses for a system](https://docs.google.com/spreadsheets/d/1h0ZStwiulrLdzXqUP-eP6D1I_I8w4DAs/edit?usp=sharing&ouid=102752259941615168652&rtpof=true&sd=true)
 - [Information Security Policy - Development and alignment](https://docs.google.com/document/d/1NaB0igyTwkY6zcb5EJgls2wEasjr-Xz-tHhGSmftTis/edit?usp=sharing)
